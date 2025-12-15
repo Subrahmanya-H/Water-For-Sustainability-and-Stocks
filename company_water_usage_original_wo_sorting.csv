@@ -1,0 +1,13 @@
+Country,Brand,SalesVolume_MillionUnits,AvgVolume_ml,WaterFootprint_Liters,TotalWaterUse_MillionLiters
+USA,Pepsi,130,330,2.4,375.0
+USA,MUG,30,330,2.3,312.0
+USA,Slice,25,330,2.1,237.5
+USA,AMP,20,250,3.0,231.00000000000003
+USA,IZZE,15,250,2.8,175.0
+Russia,Pepsi,95,330,2.5,132.0
+Russia,Mirinda,105,330,2.2,117.0
+Russia,Fiesta,35,330,2.1,73.5
+Brazil,Gatorade,50,500,3.5,69.0
+Brazil,Lipton,45,330,2.6,60.0
+Japan,Tropicana,55,330,2.4,52.5
+Japan,Starbucks,250,250,1.5,42.0
